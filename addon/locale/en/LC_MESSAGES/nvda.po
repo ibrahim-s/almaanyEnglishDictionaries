@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'almaanyEnglishDictionaries' '0.1'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2022-06-09 13:19+0300\n"
+"PO-Revision-Date: 2022-06-09 13:23+0300\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Translators: Category in input gestures dialog.
+#. Translators: title of the dialog
+#. Translators: Title of dialog.
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:59
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:99
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:101
+#: buildVars.py:23
+msgid "Almaany English Dictionaries"
+msgstr ""
+
+#. Translators: Message displayed in input help mode.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:83
+msgid ""
+"Open Almaany english dictionaries dialog, and if word is selected access "
+"meaning directly using default dictionary."
+msgstr ""
+
+#. Translators: label of cumbo box to choose default dictionary.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:106
+msgid "Choose default dictionary:"
+msgstr ""
+
+#. Translators: Type of windows to display translation result.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:113
+msgid "Default full browser"
+msgstr ""
+
+#. Translators: Type of windows to display translation result.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:115
+msgid "Browser window only"
+msgstr ""
+
+#. Translators: Type of windows to display translation result.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:117
+msgid "NVDA browseable message box(choose it after testing)"
+msgstr ""
+
+#. Translators: label of cumbo box to choose type of window to display result.
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:121
+msgid "Choose type of window To Display Result:"
+msgstr ""
+
+#. Translators: label of the check box
+#: addon\globalPlugins\almaanyEnglishDictionaries\__init__.py:126
+msgid "Close Almaany Dictionaries Dialog after requesting translation"
+msgstr ""
+
+#. Translators: Title of result html page.
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:34
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:150
+msgid "Translation Result"
+msgstr ""
+
+#. Translators: Label of text control.
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:106
+msgid "Enter a word or a phrase"
+msgstr ""
+
+#. Translators: Label of cumbo box to choose a dictionary.
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:114
+msgid "Choose Dictionary"
+msgstr ""
+
+#. Translators: Label of OK button.
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:121
+msgid "OK"
+msgstr ""
+
+#. Translators: Label of Cancel button.
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:126
+msgid "cancel"
+msgstr ""
+
+#: addon\globalPlugins\almaanyEnglishDictionaries\myDialog.py:174
+msgid "Sorry, An Error Happened({})"
+msgstr ""
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"Retreaves translation of words or phrases in several bilingual English-other "
+"language dictionaries.\n"
+"These are online dictionaries, and thus in order to use this addon, you need "
+"to be connected to the internet.\n"
+"This addon does not have a default gesture."
+msgstr ""
