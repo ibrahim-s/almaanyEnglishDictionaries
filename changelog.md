@@ -1,2 +1,2 @@
-## Changes For 0.1
-* Initial version
+## Changes For 0.2
+* Add Turkish translation.

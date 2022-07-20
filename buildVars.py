@@ -27,7 +27,7 @@ addon_info = {
 These are online dictionaries, and thus in order to use this addon, you need to be connected to the internet.
 This addon does not have a default gesture."""),
 	# version
-	"addon_version": "0.1",
+	"addon_version": "0.2",
 	# Author(s)
 	"addon_author": "Ibrahim Hamadeh <ibra.hamadeh@hotmail.com>",
 	# URL for the add-on documentation support
