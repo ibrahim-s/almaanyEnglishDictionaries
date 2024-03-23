@@ -2,7 +2,7 @@
 
 *	Author: Ibrahim Hamadeh
 *	Compatibility: NVDA version 2019.3 and later
-*	Download [version 0.3][1]
+*	Download [version 0.4][1]
 
 This addon helps you get the meaning of words or phrases through the almaany.com website.  
 For this purpose, it uses a bunch of English-Other language dictionaries on the site.  
@@ -67,6 +67,10 @@ please remember you can close this window only, with control+w or alt+f4.
 *	English ⇔ Turkish
 *	English ⇔ Arabic
 
+### Changes for 0.4 ###
+
+*	Update last tested version, so now the addon is compatible with NVDA 2024.1.
+
 ### Changes for 0.3 ###
 
 *	Update last tested version, thus make the addon compatible with NVDA 2023.1.
@@ -83,4 +87,4 @@ please remember you can close this window only, with control+w or alt+f4.
 
 *	umut korkmaz, thank you for supporting the Turkish translation of the addon.
 
-[1]: https://github.com/ibrahim-s/almaanyEnglishDictionaries/releases/download/0.3/almaanyEnglishDictionaries-0.3.nvda-addon
+[1]: https://github.com/ibrahim-s/almaanyEnglishDictionaries/releases/download/0.4/almaanyEnglishDictionaries-0.4.nvda-addon
